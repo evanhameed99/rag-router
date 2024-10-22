@@ -1,0 +1,8 @@
+requests
+langchain
+langchain-text-splitters
+langchain_chroma
+langchain_huggingface 
+langchain_community
+python-dotenv
+asyncio
